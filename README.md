@@ -113,17 +113,6 @@ Optimized for 128×64 OLED with correct width, height, and alignment.
 
 ---
 
-## Repository Structure
-
-```
-ESP8266-OLED-Interactive-Clock/
-│
-├── .gitignore
-├── LICENSE
-├── README.md
-└── ESP8266_OLED_Clock.ino
-```
-
 ## Author
 
 **Guhan R**
