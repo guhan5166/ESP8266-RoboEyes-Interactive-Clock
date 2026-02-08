@@ -44,7 +44,7 @@ void setup() {
   roboEyes.setIdleMode(ON, 2, 2);
 
   // ---- WiFi ONLY for time ----
-  WiFi.begin("Redmi", "9025817747");
+  WiFi.begin("Enter Your WiFi Name (SSID)", "Enter WiFi Password"); // ---- Enter Your WiFi Name (SSID) & Enter WiFi Password ----
   while (WiFi.status() != WL_CONNECTED) {
     delay(100);
   }
