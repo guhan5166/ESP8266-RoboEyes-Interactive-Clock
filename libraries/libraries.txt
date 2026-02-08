@@ -1,3 +1,0 @@
-Adafruit GFX
-Adafruit SSD1306
-FluxGarage RoboEyes - 
